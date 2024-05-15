@@ -1,0 +1,230 @@
+[
+  
+    {
+      "id": 1,
+      "title": "Gas Relief tablets",
+      "category": "Anti-acidity",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "image": "./assets/images/digene-acidity-gas-relief-tablets-15s-mint-flavour-2-1671740678.webp",
+      "rating": { "rate": 3.9, "count": 120 },
+      "price": 9.95
+    },
+    {
+      "id": 2,
+      "title": "Ecosprin",
+      "category": "Blood Thinner",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "image": "./assets/images/ecosprin-75mg-strip-of-14-tablets-1-1647434835.webp",
+      "rating": { "rate": 4.1, "count": 259 },
+      "price": 2.3
+    },
+    {
+      "id": 3,
+      "title": "Tablets Vitamin C",
+      "category": "Vitamin Supplement",
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "image": "./assets/images/fastup-charge-vitamin-c-zinc-effervescent-tablets-with-natural-amla-orange-flavour-20-tablets-2-1711002755.webp",
+      "rating": { "rate": 4.7, "count": 500 },
+      "price": 5.99
+    },
+    {
+      "id": 4,
+      "title": "Gelusil",
+      "category": "Antacid",
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "image": "./assets/images/gelusil-mps-mint-flavour-sugar-free-bottle-of-400ml-liquid-2-1708406009.webp",
+      "rating": { "rate": 2.1, "count": 430 },
+      "price": 5.99
+    },
+    {
+      "id": 5,
+      "title": "Vitamin C 1000mg",
+      "category": "Vitamin Supplement",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "image": "./assets/images/himalayan-organics-vitamin-c-1000mg-120-tablets-2-1671743615.webp",
+      "rating": { "rate": 4.6, "count": 400 },
+      "price": 6.5
+    },
+    {
+      "id": 6,
+      "title": "Nurafen",
+      "category": "Pain Relief",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "image": "./assets/images/nurafen.webp",
+      "rating": { "rate": 3.9, "count": 70 },
+      "price": 6.8
+    },
+    {
+      "id": 7,
+      "title": "Neurobion forte tablet 30s",
+      "category": "Vitamin Supplement",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "image": "./assets/images/neurobion-forte-tablet-30s-1-1669655036.webp",
+      "rating": { "rate": 3, "count": 400 },
+      "price": 9.99
+    },
+    {
+      "id": 8,
+      "title": "Nytol",
+      "category": "Sleep Aid",
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "image": "./assets/images/nytol.webp",
+      "rating": { "rate": 1.9, "count": 100 },
+      "price": 10.99
+    },
+    {
+      "id": 9,
+      "title": "osteocare tabletscalcium 400mg",
+      "category": "Supplement",
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "image": "./assets/images/osteocare-tabletscalcium-400mgmagnesiumzinc-vitamin-d3-tablets-2-1671742151.webp",
+      "rating": { "rate": 3.3, "count": 203 },
+      "price": 6.4
+    },
+    {
+      "id": 10,
+      "title": "Clenil Modulute",
+      "category": "Asthma Inhaler",
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "image": "./assets/images/pharmacy-online-clenil-modulite-clenil-modulit-1592404845Clenil-Modulite-50mcg-Inhaler.jpg",
+      "rating": { "rate": 2.9, "count": 470 },
+      "price": 10.9
+    },
+    {
+      "id": 11,
+      "title": "Fostair",
+      "category": "Asthma Inhaler",
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "image": "./assets/images/pharmacy-online-fostair-fostair-1606426076Fostair-100-6.jpg",
+      "rating": { "rate": 4.8, "count": 319 },
+      "price": 10.9
+    },
+    {
+      "id": 12,
+      "title": "Salbutamol",
+      "category": "Asthma Inhaler",
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "image": "./assets/images/pharmacy-online-salbutamol-salbutamo-1592404898salbutamol-generic-inhaler.jpg",
+      "rating": { "rate": 4.8, "count": 400 },
+      "price": 11.4
+    },
+    
+    {
+      "id": 13,
+      "title": "Seretide",
+      "price": 5.99,
+      "description": "Seretide is a medication used to treat asthma and chronic obstructive pulmonary disease (COPD). It contains two active ingredients: fluticasone propionate and salmeterol. Fluticasone propionate is a corticosteroid that reduces inflammation in the airways, while salmeterol is a long-acting beta agonist that helps to relax the muscles of the airways, making breathing easier.",
+      "category": "medication",
+      "image": "./assets/images/pharmacy-online-seretide-seretide-evohaler-accuhaler-1620228865seretideevohaler.jpg",
+      "rating": { "rate": 2.9, "count": 250 }
+    },
+    {
+      "id": 14,
+      "title": "Fish oil",
+      "price": 9.99,
+      "description": "Fish oil supplements contain omega-3 fatty acids, which are essential nutrients that are important for maintaining heart health. Omega-3 fatty acids have been shown to reduce inflammation, lower blood pressure, and improve overall cardiovascular health. They may also have benefits for brain health and may help to reduce the risk of certain chronic diseases.",
+      "category": "Supplement",
+      "image": "./assets/images/pharmeasy-fish-oil-1000mg-soft-gelatin-60-capsules-2-1707378524.webp",
+      "rating": { "rate": 2.2, "count": 140 }
+    },
+    {
+      "id": 15,
+      "title": "Vitamin C 990mg",
+      "price": 6.99,
+      "description": "Vitamin C supplements are commonly taken to support immune function and overall health. They may help to reduce the duration and severity of colds and may also have antioxidant properties that protect cells from damage caused by free radicals. Vitamin C is essential for collagen production, wound healing, and the absorption of iron from plant-based foods.",
+      "category": "Supplement",
+      "image": "./assets/images/pharmeasy-vitamin-c-990mg-with-zinc-10mg-powerful-immunity-booster-60-veg-tablets-2-1672661091.webp",
+      "rating": { "rate": 2.6, "count": 235 }
+    },
+    {
+      "id": 16,
+      "title": "Sudafed",
+      "price": 19.95,
+      "description": "Sudafed is a decongestant medication used to relieve nasal congestion caused by colds, allergies, or sinus infections. It works by narrowing the blood vessels in the nasal passages, which reduces swelling and congestion. Sudafed is available in both oral and nasal spray forms and is typically used for short-term relief of congestion.",
+      "category": "medication",
+      "image": "./assets/images/sudafed.webp",
+      "rating": { "rate": 2.9, "count": 340 }
+    },
+    {
+      "id": 17,
+      "title": "Vitamin C",
+      "price": 9.99,
+      "description": "Vitamin C is an essential nutrient that plays a key role in immune function, wound healing, and collagen production. It is found naturally in many fruits and vegetables, but supplements are commonly taken to ensure adequate intake, especially during times of illness or stress. Vitamin C may also have antioxidant properties that protect cells from damage.",
+      "category": "Supplement",
+      "image": "./assets/images/everherb-by-pharmeasy-amla-juice-rich-in-vitamin-c-natural-immunity-booster-1-litre-bottle-2-1680238204.webp",
+      "rating": { "rate": 3.8, "count": 679 }
+    },
+    {
+      "id": 18,
+      "title": "Aspirin",
+      "price": 9.85,
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to relieve pain, reduce inflammation, and lower fever. It is also used in low doses as a blood thinner to reduce the risk of heart attack and stroke in people at high risk. Aspirin works by inhibiting the production of prostaglandins, which are chemicals that promote inflammation, pain, and fever.",
+      "category": "Medication",
+      "image": "./assets/images/ecosprin-75mg-strip-of-14-tablets-1-1647434835.webp",
+      "rating": { "rate": 4.7, "count": 130 }
+    },
+    {
+      "id": 19,
+      "title": "Collagen",
+      "price": 7.95,
+      "description": "Collagen is a protein that provides structure to the skin, hair, nails, bones, and connective tissues. It is the most abundant protein in the body and is essential for maintaining healthy skin elasticity and hydration. Collagen supplements are commonly taken to improve skin health, reduce wrinkles, and promote joint health. They may also support muscle growth and repair.",
+      "category": "Supplement",
+      "image": "./assets/images/dr-morepen-natural-collagen-builder-chocolate-flavour-250g-2-1692775852.webp",
+      "rating": { "rate": 4.5, "count": 146 }
+    },
+    {
+      "id": 20,
+      "title": "Digene",
+      "price": 12.99,
+      "description": "Digene is an antacid medication used to relieve symptoms of indigestion, heartburn, and acid reflux. It works by neutralizing excess stomach acid and forming a protective barrier over the lining of the stomach and esophagus, which helps to reduce irritation and discomfort. Digene is available in tablet, liquid, and chewable forms and is typically taken as needed.",
+      "category": "medication",
+      "image": "./assets/images/digene-acidity-gas-relief-tablets-15s-mint-flavour-2-1671740678.webp",
+      "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+      "id": 21,
+      "title": "Paracetamol",
+      "price": 12.99,
+      "description": "Paracetamol is an analgesic and antipyretic medication used to alleviate mild to moderate pain such as headaches, toothaches, menstrual cramps, muscle aches, and reduce fever. It can also be used to lower fever associated with colds and flu. Paracetamol works by intervening in the body's pain and fever response.",
+      "category": "medication",
+      "image": "./assets/images/Capletsparacetamol.jpg",
+      "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+      "id": 22,
+      "title": "Care Glycerin",
+      "price": 9.85,
+      "description": "Aspirin is a naturally occurring compound metabolized into acetylsalicylic acid when consumed. Acetylsalicylic acid is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to relieve pain, reduce inflammation, and lower fever. It is also used in low doses as a blood thinner to reduce the risk of heart attack and stroke in people at high risk. Aspirin works by inhibiting the production of prostaglandins, which are chemicals that promote inflammation, pain, and fever.",
+      "category": "medication",
+      "image": "./assets/images/Care---Glycerin.jpg",
+      "rating": { "rate": 4.7, "count": 130 }
+    },
+    {
+      "id": 23,
+      "title": "Difflam Throat Spray",
+      "price": 7.95,
+      "description": "Difflam is a throat spray used to alleviate symptoms such as throat pain and irritation. It has anti-inflammatory and analgesic properties. Difflam works by reducing inflammation in the oral cavity and soothing the throat tissue.",
+      "category": "Supplement",
+      "image": "./assets/images/Difflam-Throat-Spray.jpg",
+      "rating": { "rate": 4.5, "count": 146 }
+    },
+    {
+      "id": 24,
+      "title": "Optrex",
+      "price": 12.99,
+      "description": "Optrex is an eye drop used to relieve eye problems such as redness, itching, and irritation. Optrex is designed to moisturize and protect the eyes.",
+      "category": "medication",
+      "image": "./assets/images/eye-drops-optrex.jpg",
+      "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+      "id": 25,
+      "title": "Lemsip-Max-Cold",
+      "price": 12.99,
+      "description": "Lemsip Max Cold is a medication used to relieve symptoms of colds and flu. Lemsip can help alleviate nasal congestion, sore throat, cough, and fever. It may also generally help the individual feel better.",
+      "category": "medication",
+      "image": "./assets/images/Lemsip-Max-Cold-&-Flu-Lemon.jpg",
+      "rating": { "rate": 3.6, "count": 145 }
+    }
+    
+]
